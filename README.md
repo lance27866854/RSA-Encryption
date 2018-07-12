@@ -1,4 +1,4 @@
-# RSA_decoder
+# RSA
 
 I wrote this program because of the tragic happening on myself.
 At the end of this semester, I received a e-mail from the TA of the course, Digital Design,
