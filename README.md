@@ -24,3 +24,5 @@ It was actually the terrible period I had never experienced in my plain life....
 The professor didn't flunk me, but I thought that I had learned more than a lesson counted for 3 credits.
 (Ha ha...)then this unsecured RSA encoder was created.
 I use 5-bit to encript text.(Normally using 1024-bit, but I had limited time. It is summer vaccation...)
+
+Note: in this project, there is a function called "exp_mode" written by others. I found it when someday I browsed Yahoo page.
