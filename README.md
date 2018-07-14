@@ -26,8 +26,11 @@ The professor didn't flunk me, but I thought that I had learned more than a less
 I use 5-bit to encript text.(Normally using 1024-bit, but I had limited time. It is summer vaccation...)
 
 Perform:
+
 <img width="476" alt="1" src="https://user-images.githubusercontent.com/41135423/42637277-5834aab8-861d-11e8-9084-db01d54e88e1.png">
+
 <img width="478" alt="2" src="https://user-images.githubusercontent.com/41135423/42637280-5ad119f0-861d-11e8-9a20-e3a0e22b3dff.png">
+
 <img width="478" alt="3" src="https://user-images.githubusercontent.com/41135423/42637283-5ce6bbb4-861d-11e8-8306-b446ea8cdcf8.png">
 
 Note: in this project, there is a function called "exp_mode" written by others. I found it when someday I browsed Yahoo page.
