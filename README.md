@@ -1,9 +1,9 @@
 # RSA
 
-I wrote this program because of the tragic happening on myself.
+I wrote this program because of my tragic happening.
 At the end of this semester, I received a e-mail from the TA of the course, Digital Design,
-and they thought that I was the suspect of copying other student's code or giving other student my code.
-(The attach is a picture, showing the similarity of our code.)
+and they thought that I was the suspect copying other student's code or giving other student my code.
+(The attachment is a picture, showing the similarity of our code.)
 That student's name is Chen BAI XUN and I even hadn't heard this name before.
 I thought it was ridiculous that the TA told me that I would be flunked if we didn't tell the truth clearly and immediately.
 However, I didn't know this person. Why I gave the person my code? And I couldn't copy his code, too.
