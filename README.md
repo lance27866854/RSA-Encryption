@@ -23,7 +23,7 @@ It was actually the terrible period I had never experienced in my life....
 
 The professor didn't flunk me, but I thought that I had learned more than a lesson counted for 3 credits.
 (Ha ha...)then this unsecured RSA encoder was created.
-I used 5-bit to encript text.(Normally using 1024-bit, but I had limited time. It is summer vaccation...)
+I used 5 binary bits to encript text.(Normally using 1024 binary bits, but I had limited time. It is summer vaccation...)
 
 Perform:
 
