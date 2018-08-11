@@ -1,5 +1,11 @@
 # RSA
 
+## Principle
+
+You can check on wiki: https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+
+## Story
+
 I wrote this program because of my tragic happening.
 At the end of this semester, I received a e-mail from the TA of the course, Digital Design,
 and they thought that I was the suspect copying other student's code or giving other student my code.
@@ -25,7 +31,7 @@ The professor didn't flunk me, but I thought that I had learned more than a less
 (Ha ha...)then this unsecured RSA encoder was created.
 I used 5 binary bits to encript text.(Normally using 1024 binary bits, but I had limited time. It is summer vaccation...)
 
-Perform:
+## Perform
 
 <img width="476" alt="1" src="https://user-images.githubusercontent.com/41135423/42637277-5834aab8-861d-11e8-9084-db01d54e88e1.png">
 
